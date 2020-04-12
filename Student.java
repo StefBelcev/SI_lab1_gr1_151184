@@ -58,3 +58,9 @@ class Student {
 			return false;
 	}
 }
+class Course{
+	List<Student> students = new List(Student);
+	public Course(List<Students> s){
+		this.students = s;
+	}
+}
