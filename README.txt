@@ -1,0 +1,1 @@
+Uploading first laboratory exercise on Github.
